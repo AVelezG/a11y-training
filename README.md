@@ -27,5 +27,6 @@ npm run start
 npm run storybook
 ```
 
-##Overview
+## Overview
+
 ![Image of the project with Axe DevTools running](./public/overview.png)
