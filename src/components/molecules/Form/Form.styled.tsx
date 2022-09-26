@@ -52,7 +52,6 @@ export const FormInput = styled.input<InterfaceForm>(({}) => {
          */
     /* Solution */
     /* remove outline: none */
-    outline: none;
   `;
 });
 

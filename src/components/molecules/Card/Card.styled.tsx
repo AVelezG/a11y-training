@@ -10,7 +10,7 @@ export const CardContainer = styled.div<InterfaceCard>(({}) => {
   `;
 });
 
-export const CardTitle = styled.h3<InterfaceCard>(({}) => {
+export const CardTitle = styled.h2<InterfaceCard>(({}) => {
   return css`
     color: white;
   `;

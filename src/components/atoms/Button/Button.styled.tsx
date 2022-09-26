@@ -18,7 +18,7 @@ export const ButtonContainer = styled.button<InterfaceButton>(({ variant }) => {
       */
       /* Solution */
       /* color: black; */
-      color: white;
+      color: black;
     `,
     secondary: css`
       background: white;
@@ -30,7 +30,7 @@ export const ButtonContainer = styled.button<InterfaceButton>(({ variant }) => {
       */
       /* Solution */
       /* color: black; */
-      color: white;
+      color: black;
     `,
   };
 

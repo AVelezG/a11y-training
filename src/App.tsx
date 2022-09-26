@@ -15,9 +15,9 @@ function App() {
       {/* <header>
         <Menu />
       </header> */}
-      <div>
+      <header>
         <Menu />
-      </div>
+      </header>
       {/* <main>
         <Presentation />
         <CardsContainer>
@@ -29,7 +29,7 @@ function App() {
           <Form />
         </SectionForm>
       </main> */}
-      <div>
+      <main>
         <Presentation />
         <CardsContainer>
           <Card />
@@ -39,13 +39,13 @@ function App() {
         <SectionForm>
           <Form />
         </SectionForm>
-      </div>
+      </main>
       {/* <footer>
         <Footer />
       </footer> */}
-      <div>
+      <footer>
         <Footer />
-      </div>
+      </footer>
     </>
   );
 }

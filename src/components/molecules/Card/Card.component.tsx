@@ -25,8 +25,8 @@ export const Card: React.FC<CardProps> = ({ ...props }) => {
         {/* Solution */}
         {/* <Button variant="primary" label="Read complete info" />
         <Button variant="secondary" label="See other think" /> */}
-        <Button variant="primary" label="More Info" />
-        <Button variant="secondary" label="See more..." />
+        <Button variant="primary" label="Read complete info" />
+        <Button variant="secondary" label="See more information" />
       </CardFooter>
     </CardContainer>
   );

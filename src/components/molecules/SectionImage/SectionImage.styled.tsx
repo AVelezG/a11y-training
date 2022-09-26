@@ -19,7 +19,7 @@ export const SectionImageContainer = styled.div<InterfaceSectionImage>(({}) => {
 
 export const SectionImageHead = styled.div<InterfaceSectionImage>(({}) => {
   return css`
-    color: white;
+    color: black;
     font-size: 30px;
     font-weight: bold;
     letter-spacing: 1px;
